@@ -1,0 +1,6 @@
+Kiky belajar 
+1. Latihan HTML
+2. Latihan CSS
+3. Latihan CSS Flexbox
+4. Latihan CSS Float
+5. Latihan Javscript
