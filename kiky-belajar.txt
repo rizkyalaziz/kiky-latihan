@@ -4,3 +4,5 @@ Kiky belajar
 3. Latihan CSS Flexbox
 4. Latihan CSS Float
 5. Latihan Javscript
+6. Latihan OOP Javacript
+7. Latihan PHP
